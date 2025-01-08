@@ -2,7 +2,7 @@
 #include <iomanip>
 #include <cstring>
 using namespace std;
-
+// teste
 bool check(char p1[], char p2[]) {
     if (strcmp(p1, p2) == 0) {
         return true;
